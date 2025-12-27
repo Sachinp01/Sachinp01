@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as AI/ML Engineer <br>👯 I’m looking to collaborate on AI/ML development<br>🌱 I’m currently learning AI, Ml, Deep learning, Quantitative development<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working as AI/ML Engineer <br>👯 I’m looking to collaborate on AI/ML development<br>🌱 I’m currently learning AI, Ml, Deep learning, Quantitative development<br>💬 Ask me about AI, ML, Quantitative Development <br>⚡ Fun fact
 
 
 ## 🌐 Socials:
